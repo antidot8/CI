@@ -1,1 +1,1 @@
-# Project Sample  [![Build status](https://ci.appveyor.com/api/projects/status/ygi89r9921sbr5wn?svg=true)](https://ci.appveyor.com/project/antidot8/ci)
+# Project Sample  [![Build status](https://ci.appveyor.com/api/projects/status/g90f4nvy45cs5p4s?svg=true)](https://ci.appveyor.com/project/antidot8/selenium)
